@@ -85,4 +85,4 @@ Copyright © 2026 Yanina Shvaikovska
 ## About the Project
 
 The purpose of this repository is to explore practical approaches to combining engineering knowledge, BIM data, and Python automation in real MEP workflows.
-The project is shared for learning, experimentation, and non-commercial engineering use under the PolyForm Noncommercial License 1.0.0.q
+The project is shared for learning, experimentation, and non-commercial engineering use under the PolyForm Noncommercial License 1.0.0.
